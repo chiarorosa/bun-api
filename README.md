@@ -14,6 +14,7 @@ bun run start
 
 <hr>
 A aplicação inclui:
--- HTTP Server
+
+- HTTP Server
 
 Este projeto foi criado usando "bun init" no Bun v1.0.0. O Bun é um runtime JavaScript tudo-em-um com foca na performace.
