@@ -1,15 +1,19 @@
-# bun-app
+# Repositório para exemplos de utilização do Bun + Typescript
 
-To install dependencies:
+Para instalar novas depedências no projeto, assim como é feito no Node.js, execute:
 
 ```bash
 bun install
 ```
 
-To run:
+Para rodar a aplicação base, execute:
 
 ```bash
-bun run index.ts
+bun run start
 ```
 
-This project was created using `bun init` in bun v1.0.0. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
+<hr>
+A aplicação inclui:
+-- HTTP Server
+
+Este projeto foi criado usando "bun init" no Bun v1.0.0. O Bun é um runtime JavaScript tudo-em-um com foca na performace.
